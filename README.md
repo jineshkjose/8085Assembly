@@ -7,8 +7,8 @@ This repository for 8085 assembly languge programs
 
 ## Programs
 
-1. BCD Addition
-2. BCD Subtraction
+1. **BCD Addition**
+2. **BCD Subtraction**
 
 
 
