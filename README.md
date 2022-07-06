@@ -1,7 +1,7 @@
 # 8085 Assembly
 This repository for 8085 assembly languge programs
 
-Use below link to understand the usege of simulators in android and pc
+Use below link to understand the usage of simulators in android and pc
 
 [**8085 simulator- Java file**](https://www.youtube.com/watch?v=48RQVJ1-oE4&t=319s)
 
